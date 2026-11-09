@@ -36,11 +36,11 @@
         </dependency>
 
         <!-- Testing Framework (JUnit 5) -->
+        <!-- Testing Framework (JUnit 5) -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>5.10.2</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
